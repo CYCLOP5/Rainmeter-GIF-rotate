@@ -1,9 +1,10 @@
-**Credits to [Waneella](https://www.waneella.com/) for creating the original wallpaper. If it needs to be taken down contact at :**
+**Credits to [Waneella](https://www.waneella.com/) for creating the original wallpaper. Support them at [their Patreon](https://www.patreon.com/waneella) or [their gumroad](https://waneella.gumroad.com/) If it needs to be taken down contact at :**
 <details>
   <summary>Email-ID</summary>
    goffy
   
 </details>
+
 
 
 
