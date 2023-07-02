@@ -1,2 +1,4 @@
 # Rainmeter-GIF-rotate
-uses rainmeter (no shit lmaO)
+uses rainmeter 
+art by [Waneella](https://www.waneella.com/)
+
