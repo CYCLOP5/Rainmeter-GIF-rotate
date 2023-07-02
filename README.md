@@ -1,3 +1,12 @@
+**Credits to [Waneella](https://www.waneella.com/) for creating the original wallpaper. If it needs to be taken down contact at :**
+<details>
+  <summary>Email-ID</summary>
+   goffy
+  
+</details>
+
+
+
 
 <a name="readme-top"></a>
 
@@ -121,7 +130,7 @@ See the [open issues](https://github.com/CYCLOP5/Rainmeter-GIF-rotate/issues) fo
 
 
 ## License
-**If any party requires me to shutdown the repo due to copyright reasons contact me immediately at** 
+**If any party requires me to shutdown the repo due to copyright reasons contact me immediately at :** 
 <details>
   <summary>Email-ID</summary>
    goffy
