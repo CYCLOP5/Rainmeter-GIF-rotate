@@ -1,7 +1,7 @@
 **Credits to [Waneella](https://www.waneella.com/) for creating the original wallpaper. Support them at [their Patreon](https://www.patreon.com/waneella) or [their gumroad](https://waneella.gumroad.com/) If it needs to be taken down contact at :**
 <details>
   <summary>Email-ID</summary>
-   goffy
+   varun.jhaveri23@spit.ac.in
   
 </details>
 
@@ -134,7 +134,7 @@ See the [open issues](https://github.com/CYCLOP5/Rainmeter-GIF-rotate/issues) fo
 **If any party requires me to shutdown the repo due to copyright reasons contact me immediately at :** 
 <details>
   <summary>Email-ID</summary>
-   goffy
+    varun.jhaveri23@spit.ac.in
   
 </details>
 
